@@ -3,18 +3,18 @@ R2 score : 0.605787
 MSE score: 0.530446
 
 Feature 0 has R2 score  : 0.466543
-		  has MSE score : 0.717811
+	  has MSE score : 0.717811
 Feature 1 has R2 score  : 0.014843
-		  has MSE score : 1.325611
+	  has MSE score : 1.325611
 Feature 2 has R2 score  : 0.027024
-		  has MSE score : 1.309220
+	  has MSE score : 1.309220
 Feature 3 has R2 score  : 0.001714
-		  has MSE score : 1.343277
+	  has MSE score : 1.343277
 Feature 4 has R2 score  : -0.000448
-		  has MSE score : 1.346187
+	  has MSE score : 1.346187
 Feature 5 has R2 score  : -0.000757
-		  has MSE score : 1.346602
+	  has MSE score : 1.346602
 Feature 6 has R2 score  : 0.020359
-		  has MSE score : 1.318189
+	  has MSE score : 1.318189
 Feature 7 has R2 score  : 0.000892
-		  has MSE score : 1.344383
+	  has MSE score : 1.344383

@@ -45,7 +45,7 @@ def do_simple_regression(i):
 
     # write results
     table.write(f"Feature %d has R2 score  : %f\n" %(i, R2))
-    table.write(f"\t\t  has MSE score : %f\n" %(MSE))
+    table.write(f"\t  has MSE score : %f\n" %(MSE))
 
 
 
