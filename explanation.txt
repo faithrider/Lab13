@@ -1,0 +1,7 @@
+Write a short explanation of how you would evaluate the results of the simple linear regression estimators, and comparing
+them with the results from the multiple linear regression.
+
+
+A larger R2 value and a smaller MSE value leads to a more confident conclusion. The MLR model had a much higher R2 value,
+as well as a sizably smaller MSE value, compared to the SLRs. This can lead to the conclusion that the y-data the x-data
+was trained on (MedHouseValue) is much better explained when taking into account all of the features/variables.s
