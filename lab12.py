@@ -22,6 +22,7 @@ cali_df = pd.DataFrame(cali.data,columns=cali.feature_names)
 cali_df['MedHouseValue'] = pd.Series(cali.target)
 
 
+# performs the simple linear regression
 def do_simple_regression(i):
     # set variables
     y = pd.DataFrame(cali_df["MedHouseValue"])
